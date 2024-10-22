@@ -7,23 +7,23 @@
 
 ## Create VM1 and VM2
 
-![Create VM1 and VM2](/images/create_two_vm.png)
+![Create VM1 and VM2](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson3_OS_2/images/create_two_vm.png)
 
 ## Connecting a host to a VM1
 
-![Connecting a host to a VM1](/images/host_ssh_to_vm1.png)
+![Connecting a host to a VM1](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson3_OS_2/images/host_ssh_to_vm1.png)
 
 ## Connecting a VM1 to a host
 
-![Connecting a host to a VM1](/images/vm1_ssh_to_host.png)
+![Connecting a host to a VM1](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson3_OS_2/images/vm1_ssh_to_host.png)
 
 ## Connecting a VM2 to a VM1
 
-![Connecting a host to a VM1](/images/vm2_ssh_to_vm1.png)
+![Connecting a host to a VM1](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson3_OS_2/images/vm2_ssh_to_vm1.png)
 
 ## Connecting a VM2 to a host
 
-![Connecting a host to a VM1](/images/vm2_ssh_to_host.png)
+![Connecting a host to a VM1](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson3_OS_2/images/vm2_ssh_to_host.png)
 
 Blocked traffic and access by means of iptables.
 
