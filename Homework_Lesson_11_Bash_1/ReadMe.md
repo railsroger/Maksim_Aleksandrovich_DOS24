@@ -6,7 +6,7 @@ of all files with a given extension (the third argument of the command line) fro
 line) from a given directory (the directory name is set by the user as the second argument of the command line).
 as the second command line argument).
 
-![Result]file:///home/vm1/Pictures/Screenshots/list_files.png
+![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_11_Bash_1/images/list_files.png)
 
 Generate files myself *** Write a script to search for a user-specified string in all the
 files of a given directory and all its subdirectories (the string and the name of the
