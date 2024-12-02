@@ -16,4 +16,4 @@ names of the files containing the specified string and their size.
 their size. If there is no access to any directory, you should
 display the corresponding message and continue execution.
 
-![Result]file:///home/vm1/Pictures/Screenshots/search_words.png
+![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_11_Bash_1/images/search_words.png)
