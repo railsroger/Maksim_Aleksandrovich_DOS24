@@ -1,9 +1,8 @@
-Create a repository on the created github.com account and clone it locally. Set up accesses so that you can push changes to branches. Init commit can also be local, it's at your discretion. Then implement the following scenarios.
-------------------------------------------------------------------------------------------------------------------------------
+# Create a repository on the created github.com account and clone it locally. Set up accesses so that you can push changes to branches. Init commit can also be local, it's at your discretion. Then implement the following scenarios.
+-------------------------------------------------------------------------------------------------------------------
 
 1. Create 5-10 commits. (Example: create files, change their contents). Output their log screen, take a screenshot and add it to the report.
-![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_11_Bash_1/images/list_files.png)
-![alt text](clonerepo.png)
+![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson10_Repository/images/clonerepo.png)
 ![alt text](<Screenshot From 2024-12-03 13-29-01.png>)
 ![alt text](<Screenshot From 2024-12-03 13-29-14.png>)
 
