@@ -3,7 +3,7 @@
 
 1. Create 5-10 commits. (Example: create files, change their contents). Output their log screen, take a screenshot and add it to the report.
 ![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson10_Repository/images/clonerepo.png)
-![alt text](<Screenshot From 2024-12-03 13-29-01.png>)
+![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson10_Repository/images/Screenshot From 2024-12-03 13-29-01.png)
 ![alt text](<Screenshot From 2024-12-03 13-29-14.png>)
 
 2. Use reflog to go to the previous commit (at your discretion). Output, screen, report. (Output their log screen, take a screen and add to report.)
