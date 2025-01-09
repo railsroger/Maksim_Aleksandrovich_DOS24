@@ -1,9 +1,10 @@
-## Homework_Lesson 14 - WebServers 1
+## Homework_Lesson 14 - WebServers 1 👋
 
 ### Install nginx:
-sudo apt update; 
+```shell
+sudo apt update 
 sudo apt install nginx
-
+```
 ![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_14_WebServers_1/images/nginx_ver.png)
 
 ### Profile list check:
