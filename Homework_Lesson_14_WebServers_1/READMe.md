@@ -3,11 +3,13 @@
 ### Install nginx:
 sudo apt update
 sudo apt install nginx
-![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_14_WebServers_1/images/nginx_ver.png)
 
+(https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_14_WebServers_1/images/nginx_ver.png)
 
 ### Profile list check:
 sudo ufw app list
+
+(https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_14_WebServers_1/images/ufw_list.png)
 
 ### Include only the strict profile HTTP:
 sudo ufw allow 'Nginx HTTP'
@@ -30,30 +32,25 @@ sudo nano /var/www/tms.by/html/index.html
 ### Create file for settings:
 sudo nano /etc/nginx/sites-available/tms.by
 
-server {
-        listen 80;
-        listen [::]:80;
-
-        root /var/www/tms.by/html;
-        index index.html index.htm index.nginx-debian.html;
-
-        server_name tms.by www.tms.by;
-
-        location / {
-                try_files $uri $uri/ =404;
-        }
-}
+(https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_14_WebServers_1/images/config_tms.png)
 
 ### Enable file and create link on catalog:
 sudo ln -s /etc/nginx/sites-available/tms.by /etc/nginx/sites-enabled/
 
 ### Rule out a cache problem:
 sudo nano /etc/nginx/nginx.conf
-
 Editing: option "server_names_hash_bucket_size 64"
+
+(https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_14_WebServers_1/images/nginx_config.png)
 
 ### Test on syntax error:
 sudo nginx -t
 
 ### Restart Nginx:
 sudo systemctl restart nginx
+
+(https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_14_WebServers_1/images/nginx_default.png)
+
+(https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_14_WebServers_1/images/tms_result.png)
+
+
