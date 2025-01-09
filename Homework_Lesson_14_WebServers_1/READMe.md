@@ -3,6 +3,8 @@
 ### Install nginx:
 sudo apt update
 sudo apt install nginx
+![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_14_WebServers_1/images/nginx_ver.png)
+
 
 ### Profile list check:
 sudo ufw app list
@@ -28,7 +30,6 @@ sudo nano /var/www/tms.by/html/index.html
 ### Create file for settings:
 sudo nano /etc/nginx/sites-available/tms.by
 
-Add:
 server {
         listen 80;
         listen [::]:80;
