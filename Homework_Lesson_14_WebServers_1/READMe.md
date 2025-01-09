@@ -4,12 +4,12 @@
 sudo apt update
 sudo apt install nginx
 
-(https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_14_WebServers_1/images/nginx_ver.png)
+![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_14_WebServers_1/images/nginx_ver.png)
 
 ### Profile list check:
 sudo ufw app list
 
-(https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_14_WebServers_1/images/ufw_list.png)
+![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_14_WebServers_1/images/ufw_list.png)
 
 ### Include only the strict profile HTTP:
 sudo ufw allow 'Nginx HTTP'
@@ -32,7 +32,7 @@ sudo nano /var/www/tms.by/html/index.html
 ### Create file for settings:
 sudo nano /etc/nginx/sites-available/tms.by
 
-(https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_14_WebServers_1/images/config_tms.png)
+![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_14_WebServers_1/images/config_tms.png)
 
 ### Enable file and create link on catalog:
 sudo ln -s /etc/nginx/sites-available/tms.by /etc/nginx/sites-enabled/
@@ -41,7 +41,7 @@ sudo ln -s /etc/nginx/sites-available/tms.by /etc/nginx/sites-enabled/
 sudo nano /etc/nginx/nginx.conf
 Editing: option "server_names_hash_bucket_size 64"
 
-(https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_14_WebServers_1/images/nginx_config.png)
+![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_14_WebServers_1/images/nginx_config.png)
 
 ### Test on syntax error:
 sudo nginx -t
@@ -49,8 +49,8 @@ sudo nginx -t
 ### Restart Nginx:
 sudo systemctl restart nginx
 
-(https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_14_WebServers_1/images/nginx_default.png)
+![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_14_WebServers_1/images/nginx_default.png)
 
-(https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_14_WebServers_1/images/tms_result.png)
+![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_14_WebServers_1/images/tms_result.png)
 
 
