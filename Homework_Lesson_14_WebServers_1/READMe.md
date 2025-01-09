@@ -1,7 +1,12 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Homework_Lesson 14 - WebServers 1 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
+Install and configure Nginx. Create an html page with your last name and the topic of the lesson.
+your last name and the topic of the lesson. Configure the nginx configuration to display the
+the page at http://tms.by
+
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
 
 ### Install Nginx:
 ```shell
