@@ -45,7 +45,7 @@ send them to a remote server on a schedule.
 
 ### CREATE DATABASE AND TABLES, ADD DATA IN THE TABLES(Analysis, Groups, Orders):
 
-![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_14_WebServers_1/images/1.png)
+![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_17_BD_1/images/1.png)
 ![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_14_WebServers_1/images/2.png)
 ![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_17_BD_1/groups.png)
 ![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_14_WebServers_1/images/describe.png)
