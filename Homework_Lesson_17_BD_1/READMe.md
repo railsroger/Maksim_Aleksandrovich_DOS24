@@ -3,14 +3,14 @@
 Objective: to gain practical experience in writing SQL queries
 Task 1:
 Input data
-```table
+
 There is a table of analyses Analysis:
-● an_id — analysis ID;
-● an_name — analysis name;
-● an_cost — analysis cost price;
-● an_price — analysis retail price;
-● an_group — analysis group.
-```
+* an_id — analysis ID;
+* an_name — analysis name;
+* an_cost — analysis cost price;
+* an_price — analysis retail price;
+* an_group — analysis group.
+
 There is a table of analysis groups Groups:
 ● gr_id — group ID;
 ● gr_name — group name;
