@@ -51,7 +51,7 @@ send them to a remote server on a schedule.
 ![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_17_BD_1/images/describe.png)
 ![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_17_BD_1/images/select_all.png)
 
-### RESULT JOIN LEFT
+### CALLING THE DESIRED REQUEST
 ![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_17_BD_1/images/result_1.png)
 
 
@@ -62,7 +62,7 @@ send them to a remote server on a schedule.
 ![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_17_BD_1/images/select_student.png)
 ![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_17_BD_1/images/select_stud_cours.png)
 
-### RESULT JOIN LEFT 
+### RESULT LEFT JOIN
 ![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_17_BD_1/images/result_left_join.png)
 
 
