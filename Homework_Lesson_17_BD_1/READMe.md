@@ -12,13 +12,14 @@ There is a table of analyses Analysis:
 * an_group — analysis group.
 
 There is a table of analysis groups Groups:
-● gr_id — group ID;
-● gr_name — group name;
-● gr_temp — storage temperature.
+* gr_id — group ID;
+* gr_name — group name;
+* gr_temp — storage temperature.
+
 There is a table of orders Orders:
-● ord_id — order ID;
-● ord_datetime — order date and time;
-● ord_an — analysis ID.
+* ord_id — order ID;
+* ord_datetime — order date and time;
+* ord_an — analysis ID.
 We will work with these tables further.
 Formulation: display the name and price for all analyses that were sold on February 5, 2020 and the following week.
 Task 2(optional):
