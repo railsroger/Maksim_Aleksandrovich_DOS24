@@ -2,6 +2,6 @@
 
 ## Docker Training Course for the Absolute Beginner
 
-![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson22_Docker_1_2/images/result.png)
+![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_22_Docker_1_2/images/result.png)
 
-![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson22_Docker_1_2/images/reuslt2.png)
+![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_22_Docker_1_2/images/result2.png)
