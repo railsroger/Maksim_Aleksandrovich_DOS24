@@ -8,7 +8,7 @@ class BankAccount:
         
     def withdraw(self, amount):
         if amount > self.__balance:
-            print("Недостаточно средств на счете")
+            print("Not enough money in the account.")
         else:
             self.__balance -= amount
 
