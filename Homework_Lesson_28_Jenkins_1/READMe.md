@@ -8,7 +8,7 @@
 A dom report is not required.
 
 ## CREATING A VIRTUAL MACHINE ON AMAZON
-![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_27_Jenkins_1/images/aws_vm.png)
+![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_28_Jenkins_1/images/aws_vm.png)
 
 ## JENKINS SETUP AND TESTING
-![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_27_Jenkins_1/images/Jenkins_helloworld.png)
+![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_28_Jenkins_1/images/Jenkins_helloworld.png)
