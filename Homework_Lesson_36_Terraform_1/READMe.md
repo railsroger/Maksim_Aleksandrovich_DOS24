@@ -3,5 +3,9 @@
 1. Write a config to create an EC2/CE.
 2. Add a variable that defines the name of your virtual machine.
 
-## CREATING A VIRTUAL MACHINE ON AMAZON USED TERRAFORM
-![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_36_Terraform_1/images/terraform.png)
+## RESULT
+![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_36_Terraform_1/images/console1.png)
+
+![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_36_Terraform_1/images/console2.png)
+
+![Result](https://github.com/railsroger/Maksim_Aleksandrovich_DOS24/blob/main/Homework_Lesson_36_Terraform_1/images/aws_vm.png)
